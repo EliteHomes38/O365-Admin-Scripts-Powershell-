@@ -1,0 +1,1 @@
+﻿New-MigrationBatch -Name "MILLS-MainBatch 2" -UserIds (cat C:\mig\MILLS-mainBatch2.txt) -DisableOnCopy -AutoStart
